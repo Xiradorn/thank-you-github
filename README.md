@@ -1520,3 +1520,7 @@ Signed,
 - Carlos Lima ([@kakamg0](https://github.com/kakamg0)), Full Stack Developer, Belo Horizonte, Brazil
 - Shubham Pandey ([@shubham9411](https://github.com/shubham9411)), Web Developer, Ranikhet, India
 - Tony Frost ([@Xiradorn](https://github.com/Xiradorn)), Web Designer/Trainer at [XiradornLab - xiradorn.it](http://xiradorn.it) & Networking Expert, Itri, Italy
+- Chahat Bansal ([@chahatbansal](https://github.com/chahatbansal)), Student
+- Vivek Kumar Kanaujia ([@vivekaris](https://github.com/vivekaris)), Student MCA at IGNOU
+- Sedat Yalcin ([@yalcins](https://github.com/yalcins)), CS Teacher .)
+- Atakan Goktepe ([@atakangktepe](https://github.com/atakangktepe)), Software Developer at Tusla, Istanbul, Turkey
